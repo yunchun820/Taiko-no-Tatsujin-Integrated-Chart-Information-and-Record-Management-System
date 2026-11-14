@@ -29,3 +29,7 @@ https://github.com/yunchun820/Taiko-no-Tatsujin-Integrated-Chart-Information-and
 서열표: taiko.wiki (https://taiko.wiki)
 taiko.wiki 레이팅 (https://rating.taiko.wiki)
 플레이 기록, 공식 소스: 동더히로바 (https://donderhiroba.jp)
+
+주의사항
+위험한앱이라고 뜰수있는데 태고의달인은 위험한게임이맞습니다
+무시하지마시고 신중히 설치해주세요
