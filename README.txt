@@ -3,7 +3,7 @@
 
 설치
 릴리즈에서 apk를 다운로드하세요
-https://github.com/yunchun820/Taiko-no-Tatsujin-Integrated-Chart-Information-and-Record-Management-System/releases/tag/1.16.1
+https://github.com/yunchun820/Taiko-no-Tatsujin-Integrated-Chart-Information-and-Record-Management-System/releases
 
 할 수 있는 것
 서열표
