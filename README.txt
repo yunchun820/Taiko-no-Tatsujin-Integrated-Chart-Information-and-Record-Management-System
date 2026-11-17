@@ -1,4 +1,4 @@
-갱신요약기능과 랜덤보면 추첨 기능이 추가되었습니다
+곡 상세에서 랭크별 점수 컷을 볼 수 있어요
 
 태고의달인 통합 채보 정보 및 기록 관리 체계입니다
 해당 어플은 gpt야 해줘와 ai 자아의탁에 의해 만들어졌습니다 사실 클로드에요
@@ -19,6 +19,7 @@ https://github.com/yunchun820/Taiko-no-Tatsujin-Integrated-Chart-Information-and
   bpm, 노트 밀도, 연주 시간, 콤보 수, 상수, 서열
   노트 밀도, 스크롤 속도, BPM변화 확인
   스크롤장난질 여부 (암기로 단계 표시함)
+  랭크별 점수 컷과 천장 점수
 
 플레이리스트
   대충 할거 메모하고 다하면 플리만 기록불러올수있어요
@@ -31,6 +32,9 @@ https://github.com/yunchun820/Taiko-no-Tatsujin-Integrated-Chart-Information-and
 서열표: taiko.wiki (https://taiko.wiki)
 taiko.wiki 레이팅 (https://rating.taiko.wiki)
 플레이 기록, 공식 소스: 동더히로바 (https://donderhiroba.jp)
+랭크 점수 컷: 태고의 달인 譜面とかWiki 極スコア表 (https://wikiwiki.jp/taiko-fumen/)
+대표 BPM: 태고의 달인 譜面とかWiki (https://wikiwiki.jp/taiko-fumen/)
+노트 밀도, 스크롤 속도, 암기 단계: ESE TJA 모음 (https://ese.tjadataba.se/ESE/ESE)
 
 주의사항
 위험한앱이라고 뜰수있는데 태고의달인은 위험한게임이맞습니다
