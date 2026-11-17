@@ -34,7 +34,6 @@ taiko.wiki 레이팅 (https://rating.taiko.wiki)
 플레이 기록, 공식 소스: 동더히로바 (https://donderhiroba.jp)
 랭크 점수 컷: 태고의 달인 譜面とかWiki 極スコア表 (https://wikiwiki.jp/taiko-fumen/)
 대표 BPM: 태고의 달인 譜面とかWiki (https://wikiwiki.jp/taiko-fumen/)
-노트 밀도, 스크롤 속도, 암기 단계: ESE TJA 모음 (https://ese.tjadataba.se/ESE/ESE)
 
 주의사항
 위험한앱이라고 뜰수있는데 태고의달인은 위험한게임이맞습니다
